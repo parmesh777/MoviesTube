@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MoviesTube/static/css/main.88854294.chunk.css",
+    "main.js": "/MoviesTube/static/js/main.428dd2e9.chunk.js",
+    "main.js.map": "/MoviesTube/static/js/main.428dd2e9.chunk.js.map",
+    "runtime-main.js": "/MoviesTube/static/js/runtime-main.5660d8dc.js",
+    "runtime-main.js.map": "/MoviesTube/static/js/runtime-main.5660d8dc.js.map",
+    "static/js/2.ff565908.chunk.js": "/MoviesTube/static/js/2.ff565908.chunk.js",
+    "static/js/2.ff565908.chunk.js.map": "/MoviesTube/static/js/2.ff565908.chunk.js.map",
+    "static/js/3.e8e3b100.chunk.js": "/MoviesTube/static/js/3.e8e3b100.chunk.js",
+    "static/js/3.e8e3b100.chunk.js.map": "/MoviesTube/static/js/3.e8e3b100.chunk.js.map",
+    "index.html": "/MoviesTube/index.html",
+    "static/css/main.88854294.chunk.css.map": "/MoviesTube/static/css/main.88854294.chunk.css.map",
+    "static/js/2.ff565908.chunk.js.LICENSE.txt": "/MoviesTube/static/js/2.ff565908.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5660d8dc.js",
+    "static/js/2.ff565908.chunk.js",
+    "static/css/main.88854294.chunk.css",
+    "static/js/main.428dd2e9.chunk.js"
+  ]
+}
