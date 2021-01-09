@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 const ErrorPage = (props) => {
   return (
     <div>
-      {props.movies.Error == "Movie not found!" ? (
+      {props.movies.Response == "False" ? (
         <h4 className="container text-center">No movies or Series Found</h4>
       ) : (
         <h4 className="container text-center">Search for movies or Series </h4>
